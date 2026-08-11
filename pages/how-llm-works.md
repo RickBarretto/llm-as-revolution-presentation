@@ -81,6 +81,62 @@ Melhor tende a ser o desempenho — até certo limite.
 
 ---
 
+# Datasets
+
+O combustível dos LLMs
+
+- Livros
+- Artigos
+- Wikipédia
+- Código-fonte
+- Páginas da Web
+
+> Quanto mais dados de qualidade, melhor tende a ser o modelo.
+
+---
+
+# Como medimos a qualidade?
+
+Benchmarks são provas padronizadas para comparar modelos.
+
+- MMLU (conhecimento)
+- HumanEval (programação)
+- GSM8K (matemática)
+- SWE-bench (engenharia de software)
+
+> Benchmark alto ajuda, mas não garante a melhor experiência.
+
+---
+layout: two-cols-header
+---
+
+# Fine-tuning
+
+Após o pré-treinamento, o modelo pode ser especializado.
+
+::left::
+
+### Base
+
+- Conhecimento geral
+- Linguagem
+- Raciocínio
+
+::right::
+
+### Fine-tuned
+
+- Programação
+- Medicina
+- Direito
+- Atendimento
+- Português
+
+> O mesmo modelo pode dar origem a diversas versões especializadas.
+
+
+---
+
 # In-Context Learning
 
 Modelos aprenderam algo inesperado: não precisam de novo treinamento para toda tarefa.
