@@ -17,15 +17,79 @@ layout: section
 - sociedade.
 
 ---
-layout: 3-images
-imageLeft: 'https://commons.wikimedia.org/wiki/Special:FilePath/JamesWattEngine.jpg'
-imageTopRight: 'https://commons.wikimedia.org/wiki/Special:FilePath/Light_bulb_Edison_2.jpg'
-imageBottomRight: 'https://commons.wikimedia.org/wiki/Special:FilePath/Classic_shot_of_the_ENIAC.jpg'
+
+# As revoluções industriais
+
+| Revolução | Tecnologia | Principal transformação |
+|-----------|------------|-------------------------|
+| 1ª | Máquina a vapor | Mecanização da produção |
+| 2ª | Eletricidade | Produção em massa |
+| 3ª | Computadores + Internet | Automação da informação |
+| 4ª? | IA Generativa | Automação do conhecimento |
+
+---
+layout: two-cols-header
 ---
 
-# Exemplos
+# 1ª Revolução Industrial
 
-Máquina a vapor · Energia elétrica · Computadores
+Máquina a vapor
+
+::left::
+
+### Antes
+- Produção artesanal
+- Baixa escala
+- Trabalho manual
+
+::right::
+
+### Depois
+- Fábricas
+- Produção mecanizada
+- Urbanização
+
+---
+layout: two-cols-header
+---
+
+# 2ª Revolução Industrial
+
+Eletricidade
+
+::left::
+
+### Antes
+- Máquinas independentes
+- Produção limitada
+
+::right::
+
+### Depois
+- Linhas de montagem
+- Produção em massa
+- Redução do custo dos produtos
+
+---
+layout: two-cols-header
+---
+
+# 3ª Revolução Industrial
+
+Computadores
+
+::left::
+
+### Antes
+- Processos em papel
+- Trabalho repetitivo
+
+::right::
+
+### Depois
+- Software
+- Internet
+- Automação de processos
 
 ---
 layout: image-right
