@@ -1,5 +1,5 @@
 ---
-theme: apple-basic
+theme: default
 title: A Revolução da Inteligência Artificial
 info: |
   Como chegamos aos LLMs e por que eles representam uma nova Revolução Industrial
