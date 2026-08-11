@@ -3,10 +3,14 @@ theme: default
 title: A Revolução da Inteligência Artificial
 info: |
   Como chegamos aos LLMs e por que eles representam uma nova Revolução Industrial
-layout: intro-image
-image: ''
+layout: cover
+background: https://cover.sli.dev
 author: RickBarretto
 transition: view-transition
+addons:
+  - slidev-addon-rabbit
+rabbit:
+  slideNum: true
 ---
 
 <div class="absolute top-10">
