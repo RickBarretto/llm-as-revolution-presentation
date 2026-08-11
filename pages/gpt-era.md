@@ -1,4 +1,11 @@
 ---
+layout: section
+---
+
+# A era GPT
+
+
+---
 layout: image-right
 image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Datacenter_Server_Racks_(22370909788).jpg'
 ---

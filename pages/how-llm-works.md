@@ -1,3 +1,11 @@
+---
+layout: section
+---
+
+# Como LLMs Funcionam
+
+---
+
 # O que realmente é um LLM?
 
 Um modelo treinado para prever o próximo token.

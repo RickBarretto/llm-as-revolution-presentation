@@ -1,4 +1,12 @@
-# Ferramentas
+---
+layout: section
+---
+
+# LLM como Agentes
+
+---
+
+# Tool Calling
 
 Hoje um LLM não responde apenas texto. Ele pode:
 

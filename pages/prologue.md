@@ -2,7 +2,9 @@
 layout: section
 ---
 
-# Um pouco de História
+# O Prólogo
+
+## Um pouco de História
 
 Antes dos LLMs existiram décadas de pesquisa. Nada apareceu "do nada".
 
