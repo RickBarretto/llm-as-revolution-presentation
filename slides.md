@@ -5,6 +5,8 @@ info: |
   Como chegamos aos LLMs e por que eles representam uma nova Revolução Industrial
 layout: intro-image
 image: ''
+author: RickBarretto
+transition: view-transition
 ---
 
 <div class="absolute top-10">
