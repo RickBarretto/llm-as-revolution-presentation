@@ -52,10 +52,6 @@ src: ./pages/new-agile.md
 src: ./pages/distrust.md
 ---
 
-----
-src: ./pages/bubble.md
-----
-
 ---
 src: ./pages/conclusions.md
 ---
