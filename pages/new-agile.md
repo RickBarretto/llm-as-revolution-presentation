@@ -80,15 +80,7 @@ backgroundSize: contain
 
 # O novo papel do programador
 
-## Antes
-
-Programador → Código
-
-## Hoje
-
-Programador → Especificação → IA → Código
-
-## **O diferencial deixa de ser apenas escrever código.**
+O diferencial deixa de ser apenas escrever código.
 
 Passa a ser:
 
