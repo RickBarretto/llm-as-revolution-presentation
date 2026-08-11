@@ -38,12 +38,24 @@ Boas decisões continuam caras.
 -->
 
 ---
-layout: two-cols-header
+layout: image-right
+image: dhh-tweet.png
+backgroundSize: contain
 ---
 
-# Quando especialistas mudam de opinião
 
-::left::
+## David Heinemeier Hansson (DHH)
+
+- Desenvolve conversando com Claude.
+- Frequentemente aceita grandes trechos gerados pela IA.
+- Prioriza comportamento e produto.
+- Especifica mais do que implementa.
+
+---
+layout: image-right
+image: uncle-bob-tweet.png
+backgroundSize: contain
+---
 
 ## Uncle Bob
 
@@ -52,14 +64,6 @@ layout: two-cols-header
 - Continua valorizando testes e arquitetura.
 - O foco deixa de ser digitar código.
 
-::right::
-
-## David Heinemeier Hansson (DHH)
-
-- Desenvolve conversando com Claude.
-- Frequentemente aceita grandes trechos gerados pela IA.
-- Prioriza comportamento e produto.
-- Especifica mais do que implementa.
 
 ---
 
