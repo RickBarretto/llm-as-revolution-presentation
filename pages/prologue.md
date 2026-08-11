@@ -4,8 +4,6 @@ layout: section
 
 # O Prólogo
 
-## Um pouco de História
-
 Antes dos LLMs existiram décadas de pesquisa. Nada apareceu "do nada".
 
 Vamos voltar para 1950.
