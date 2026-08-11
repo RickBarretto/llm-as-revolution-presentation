@@ -51,7 +51,7 @@ src: ./pages/distrust.md
 ---
 
 ----
-src: ./pages/buble?.md
+src: ./pages/bubble.md
 ----
 
 ---
