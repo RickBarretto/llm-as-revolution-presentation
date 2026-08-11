@@ -5,17 +5,20 @@ layout: section
 # A desconfiança
 
 ---
+layout: two-cols
+---
 
-# O hype
+::left::
 
-Por que tanto investimento? Porque a produtividade realmente aumentou.
+![Lunkduke Journal's Youtube](/lunduke-profile.png)
 
-Empresas disputam:
+![Lunduke's videos](/lunduke-videos.png)
 
-- infraestrutura
-- chips
-- modelos
-- dados
+::right::
+
+![Pivot to AI's Youtube](/pivot-to-ai-profile.png)
+
+![Pivot to AI's videos](/pivot-to-ai-videos.png)
 
 ---
 
