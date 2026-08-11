@@ -1,10 +1,10 @@
 {
-  "name": "a-revolu-o-das-llms",
+  "name": "llm-revolution",
   "type": "module",
   "private": true,
   "scripts": {
     "build": "slidev build",
-    "dev": "slidev --open",
+    "dev": "slidev",
     "export": "slidev export"
   },
   "dependencies": {
