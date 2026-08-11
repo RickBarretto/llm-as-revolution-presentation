@@ -127,8 +127,7 @@ layout: section
 Hoje vemos exatamente o mesmo padrão.
 
 ---
-layout: bullets
----
+
 
 **No começo:**
 
@@ -137,8 +136,7 @@ layout: bullets
 - Assistentes e Auto-complete
 
 ---
-layout: bullets
----
+
 
 **Agora:**
 

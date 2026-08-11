@@ -5,8 +5,7 @@ layout: section
 # Leituras recomendadas
 
 ---
-layout: bullets
----
+
 
 # **História**
 
@@ -14,24 +13,21 @@ layout: bullets
 - Dartmouth Proposal (1956)
 
 ---
-layout: bullets
----
+
 
 # **Deep Learning**
 
 - LeCun, Bengio e Hinton (2015) — *Deep Learning*, Nature
 
 ---
-layout: bullets
----
+
 
 # **Transformers**
 
 - Vaswani et al. (2017) — *Attention Is All You Need*
 
 ---
-layout: bullets
----
+
 
 # **GPT**
 
@@ -40,8 +36,7 @@ layout: bullets
 - *Language Models are Few-Shot Learners* (GPT-3)
 
 ---
-layout: bullets
----
+
 
 # **Referências complementares**
 
@@ -64,8 +59,7 @@ layout: bullets
 
 
 ---
-layout: bullets
----
+
 
 # **Créditos das imagens** — Wikimedia Commons
 
