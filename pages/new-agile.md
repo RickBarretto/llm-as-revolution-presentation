@@ -5,6 +5,17 @@ layout: section
 # Software Development Moderno
 
 ---
+layout: image
+image: teo-slop.png
+backgroundSize: contain
+---
+
+<!-- 
+O que queremos evitar...
+No final, nosso software é nossa responsabilidade.
+ -->
+
+---
 layout: image-right
 image: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3'
 ---
