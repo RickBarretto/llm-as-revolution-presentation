@@ -43,6 +43,10 @@ src: ./pages/agents.md
 ---
 
 ---
+src: ./pages/new-agile.md
+---
+
+---
 src: ./pages/distrust.md
 ---
 
