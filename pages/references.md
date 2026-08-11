@@ -60,17 +60,9 @@ layout: section
 
 ---
 
+## O artigo que inspirou essa apresentação
 
-# **Créditos das imagens** — Wikimedia Commons
+- (2026) ALLSOPP, J. **The Structure of Engineering Revolutions**. Web Directions.d
+- (2026) ALLSOPP, J. **I See Dead People**. Web Directions.d
 
-- mikemacmarketing — *Artificial Intelligence & AI & Machine Learning* (CC BY 2.0)
-- *JamesWattEngine.jpg* (domínio público)
-- *Light bulb Edison 2.jpg* (domínio público)
-- *Classic shot of the ENIAC* (domínio público)
-- *A sketch of the ARPANET in December 1969* (domínio público)
-- *Alan Turing (1951)* (domínio público)
-- Daderot — *Dartmouth Hall, Dartmouth College* (domínio público)
-- *Datacenter Server Racks* (CC BY 2.0)
-- *The Transformer model architecture* (CC BY-SA 3.0)
-- *Ameca Generation 1* (CC BY-SA 4.0)
-- *Nasdaq Composite dot-com bubble* (domínio público)
+![The Structure of Engineering Revolutions](/allsopp-article.png)
