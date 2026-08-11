@@ -55,12 +55,8 @@ layout: bullets
 - Hugging Face Documentation
 
 ---
-layout: two-cols-header
----
 
 # Menções Honrosas
-
-::left::
 
 ![Fábio Makoto Akita](/fabio-akita.png)
 ![Waldemar Neto](/waldemar-neto.png)
