@@ -17,6 +17,24 @@ Hoje um LLM não responde apenas texto. Ele pode:
 - gerar imagens
 
 ---
+
+# Harness
+
+```mermaid
+graph TB
+    U[Usuário] --> H[Harness]
+    H --> L[LLM]
+    H --> W[Web]
+    H --> F[Arquivos]
+    H --> A[APIs]
+    H --> C[Código]
+    L --> H
+    H --> U
+```
+
+> O harness orquestra o fluxo entre o usuário, o modelo e as ferramentas.
+
+---
 layout: image-right
 image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ameca_Generation_1.jpg'
 ---
