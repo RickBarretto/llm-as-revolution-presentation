@@ -73,3 +73,11 @@ layout: statement
 Perguntas?
 
 Github: **@RickBarretto**
+
+---
+layout: image
+image: /discussions-qr.png
+backgroundSize: bottom
+---
+
+<!-- QR Code para Discussões no Github -->
